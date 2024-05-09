@@ -39,14 +39,14 @@
                 </td>
             </tr>
             <tr>
-                <th>Kode MTK</th>
+                <th>Kode Matkul</th>
                 <th>:</th>
                 <td>
                     <?= $kode; ?>
                 </td>
             </tr>
             <tr>
-                <td>Nama MTK</td>
+                <td>Nama Matkul</td>
                 <td>:</td>
                 <td>
                     <?= $matkul; ?>

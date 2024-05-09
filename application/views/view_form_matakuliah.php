@@ -45,7 +45,7 @@ method="post">
                     </td>
                 </tr>
                 <tr>
-                    <th>Kode MTK</th>
+                    <th>Kode Matkul</th>
                     <th>:</th>
                     <td>
                         <input type="text" name="kode" id="kode" placeholder="required">
@@ -54,7 +54,7 @@ method="post">
                     </td>
                 </tr>
                 <tr>
-                    <th>Nama MTK</th>
+                    <th>Nama Matkul</th>
                     <td>:</td>
                     <td>
                         <input type="text" name="matkul" id="matkul" placeholder="required">
